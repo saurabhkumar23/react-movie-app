@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tying-game/react-movie-app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/tying-game/react-movie-app/static/js/main.ddd89b1d.chunk.js",
+    "main.js.map": "/tying-game/react-movie-app/static/js/main.ddd89b1d.chunk.js.map",
+    "runtime-main.js": "/tying-game/react-movie-app/static/js/runtime-main.6211ec08.js",
+    "runtime-main.js.map": "/tying-game/react-movie-app/static/js/runtime-main.6211ec08.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/tying-game/react-movie-app/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.2cbbfc23.chunk.js": "/tying-game/react-movie-app/static/js/2.2cbbfc23.chunk.js",
+    "static/js/2.2cbbfc23.chunk.js.map": "/tying-game/react-movie-app/static/js/2.2cbbfc23.chunk.js.map",
+    "static/js/3.c77ed8b5.chunk.js": "/tying-game/react-movie-app/static/js/3.c77ed8b5.chunk.js",
+    "static/js/3.c77ed8b5.chunk.js.map": "/tying-game/react-movie-app/static/js/3.c77ed8b5.chunk.js.map",
+    "index.html": "/tying-game/react-movie-app/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/tying-game/react-movie-app/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/tying-game/react-movie-app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.2cbbfc23.chunk.js.LICENSE.txt": "/tying-game/react-movie-app/static/js/2.2cbbfc23.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6211ec08.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.2cbbfc23.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.ddd89b1d.chunk.js"
+  ]
+}
